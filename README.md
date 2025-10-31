@@ -1,2 +1,2 @@
-# hackathonmeta
+# zenite
 Projeto Hackathon Metaverso
